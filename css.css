@@ -2,9 +2,40 @@ html{
 	background-color: #A4A4A4;
 }
 
-.content{
-	margin: 0 10% 0 10%;
+.container{
+	margin: -2% 20% 0 20%;
 	background-color: #FFF;
 	padding: 2%;
-	border: solid 2px #E6E6E6;
+	border-left, border-right: solid 2px #E6E6E6;
+	height: 100%;
+	width: 60%;
+	position: fixed;
 }
+
+/*nav*/
+div.nav{
+	background-color: #D8D8D8;
+	border: solid 1px #848484;
+	float: right;
+	padding: 10px 10px 10px 10px;
+}
+
+ul.nav{
+	padding: 0;
+	margin: 0;
+}
+
+li.nav{
+	list-style: none;
+}
+
+li.nav a{
+	color: #000;
+	text-decoration: none;
+}
+
+li.nav a:hover{
+	text-decoration: underline;
+}
+
+/*content*/
