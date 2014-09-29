@@ -13,12 +13,12 @@ html{
 	position: fixed;
 }
 
-/*nav*/
+/*Header*/
 div.nav{
 	background-color: #D8D8D8;
 	border: solid 1px #848484;
 	float: right;
-	padding: 10px 10px 10px 10px;
+	padding: 10px 50px 10px 50px;
 }
 
 ul.nav{
@@ -39,4 +39,7 @@ li.nav a:hover{
 	text-decoration: underline;
 }
 
-/*content*/
+header{
+	border-bottom: solid 1px #000;
+	padding: 0 0 10% 0;
+}
