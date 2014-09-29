@@ -6,7 +6,8 @@ html{
 	margin: -2% 20% 0 20%;
 	background-color: #FFF;
 	padding: 2%;
-	border-left, border-right: solid 2px #E6E6E6;
+	border-right: solid 2px #E6E6E6;
+	border-left: solid 2px #E6E6E6;
 	height: 100%;
 	width: 60%;
 	position: fixed;
