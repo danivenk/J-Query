@@ -3,22 +3,22 @@ html{
 }
 
 .container{
-	margin: -2% 20% 0 20%;
+	margin: -2% 20% -2% 20%;
 	background-color: #FFF;
 	padding: 2%;
 	border-right: solid 2px #E6E6E6;
 	border-left: solid 2px #E6E6E6;
 	height: 100%;
 	width: 60%;
-	position: fixed;
 }
 
 /*Header*/
 div.nav{
 	background-color: #D8D8D8;
-	border: solid 1px #848484;
+	border: solid 2px #848484;
 	float: right;
 	padding: 1% 5% 1% 5%;
+	border-radius: 100%;
 }
 
 ul.nav{
@@ -45,5 +45,10 @@ header{
 }
 
 .logo{
-	width: 80%;
+	width: 70%;
+}
+
+/*Footer*/
+footer{
+	text-align: center;
 }
