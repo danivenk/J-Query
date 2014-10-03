@@ -90,7 +90,22 @@ footer{
 	bottom: 0px;
 	padding-bottom: 5px;
 	padding-top: 5px;
-	background-color: #fff;
+	background-color: #2E9AFE;
 	border-top: solid 1px #000;
 	border-left: solid 1px #FFF;
+	color: #FFF;
+}
+
+footer a{
+	color: #FFF;
+	text-decoration: none;
+}
+
+footer a:hover{
+	text-decoration: underline;
+}
+
+footer a:active{
+	color: #FFF;
+	text-decoration: none;
 }

@@ -76,7 +76,7 @@
 
 		<p>In vel laoreet nibh. Mauris dapibus tincidunt quam, mollis finibus diam lacinia ac. Phasellus sit amet ex turpis. Pellentesque sollicitudin eros turpis, id lobortis massa rutrum sed. Vestibulum condimentum augue a sem imperdiet, id sollicitudin nisi malesuada. Aliquam erat volutpat. Ut risus urna, aliquam sed quam eget, ultrices sodales mi. Duis id viverra magna, eget sollicitudin urna.</p>
 		<footer>
-			This Site is made by Aznarthon and danivenk (<a href="http://hakkajiten.com">Hakkajiten</a>), and is commissioned by Mr. Rejaibi
+			This Site is made by Aznarthon and danivenk (<a href="http://hakkajiten.com" target="_blank">Hakkajiten</a>), and is commissioned by Mr. Rejaibi
 		</footer>
 	</div>
 </body>
