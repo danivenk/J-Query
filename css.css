@@ -17,6 +17,7 @@ html{
 	background-color: #FFF;
 	border-right: solid 2px #E6E6E6;
 	border-left: solid 2px #E6E6E6;
+	counter-reset: units;
 }
 
 /*Header*/
@@ -68,6 +69,20 @@ p {
 	box-sizing: border-box;
 }
 
+.exp:before {
+	counter-increment: units;
+	content: counter(units);
+	background-color: #000;
+	color: #FFF;
+	border-radius: 100%;
+	font-family: Arial;
+	font-size: 20px;
+	position: absolute;
+	top: 10px;
+	left: -15px;
+	padding: 4px 10px;
+}
+
 /*Footer*/
 footer{
 	position: relative;
@@ -75,8 +90,7 @@ footer{
 	bottom: 0px;
 	padding-bottom: 5px;
 	padding-top: 5px;
-	background-color: #999;
-	border-top: solid 1px #FFF;
+	background-color: #fff;
+	border-top: solid 1px #000;
 	border-left: solid 1px #FFF;
-	box-shadow: 0 0 0 1px #000;
 }
