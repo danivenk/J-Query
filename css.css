@@ -27,6 +27,7 @@ div.nav{
 	float: right;
 	padding: 1% 5% 1% 5%;
 	border-radius: 100%;
+	margin-top: 10px;
 }
 
 li.nav{
