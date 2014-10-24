@@ -26,21 +26,60 @@ div.nav{
 	border: solid 2px #848484;
 	float: right;
 	padding: 1% 5% 1% 5%;
-	border-radius: 100%;
 	margin-top: 10px;
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
 }
 
-li.nav{
-	list-style: none;
-}
-
-li.nav a{
-	color: #000;
+.nav a {
+	color: blue;
 	text-decoration: none;
+	margin-right: 5px;
 }
 
-li.nav a:hover{
-	text-decoration: underline;
+.toTop {
+	position: fixed;
+	right: 10px;
+	bottom: 20px;
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	box-sizing: border-box;
+}
+
+.toTop a {
+	position: relative;
+	height: 100%;
+	color: blue;
+	text-decoration: none;
+	padding: 10px;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	background-color: #FFF;
+}
+
+.toTop a:hover {
+	background-color: #DDD;
+}
+
+.help {
+	position: fixed;
+	right: 10px;
+	bottom: 100px;
+	width: 200px;
+	padding: 10px;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	background-color: rgba(255, 255, 255, 0.8);
+	z-index: 999;
+}
+
+.help .close a {
+	color: blue;
+	text-decoration: none;
+	font-size: 11px;
+	float: right;
 }
 
 header{
