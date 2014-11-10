@@ -36,7 +36,7 @@
 		</header>
 		<p>jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. Used by over 60% of the 10,000 most visited websites, jQuery is the most popular JavaScript library in use today. jQuery is free, open source software, licensed under the MIT License.</p>
 
-		<p class="exp" id="1">jQuery is written in javascript. But before you even start you need to or link jQuery in with the following attributes: {script src="//code.jquery.com/jquery-1.11.0.min.js"}{/script} and {script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"}{/script} For the ones who don't know how to link a .js file to your HTML file. Here is the explanation: First create a .js file and save it. Then go to your HTML file and write in the head, {script src="your_file_name.js"/}</p>
+		<p class="exp" id="1">jQuery is written in javascript. But before you even start you need to or link jQuery in with the following attributes: &lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt; and &lt;script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"&gt;&lt;/script&gt; For the ones who don't know how to link a .js file to your HTML file. Here is the explanation: First create a .js file and save it. Then go to your HTML file and write in the head, &lt;script src="your_file_name.js"/&gt;</p>
 
 		<p>Suspendisse porttitor risus at elit tempor malesuada. Nam id nibh vitae magna lobortis euismod nec pulvinar mi. Nam a porttitor dui, vel iaculis augue. Sed id nibh eu est efficitur vulputate. Nulla tempor purus tempus sapien cursus, sit amet egestas mauris sodales. Pellentesque nibh libero, tempor sit amet viverra sed, pharetra at turpis. Donec eget interdum nisi.</p>
 
