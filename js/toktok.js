@@ -4,6 +4,9 @@ $(document).ready(function() {
 	
 	for (var i = 0; i < unitCount; i++) {
 		$('.nav').append(' |<a href="#u' + (i+1) + '">&nbsp;&nbsp;Unit ' + (i+1) + '</a>');
+		if (i == 4) {
+			$('.nav').append(' |<a href="#u' + (i+1) + '">&nbsp;&nbsp;Unit ' + (i+1) + '</a> |');
+		}
 	}
 	
 	$('select option').click(function() {
