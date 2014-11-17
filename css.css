@@ -107,6 +107,7 @@ p {
 	width: calc(100% + 4px);
 	background-color: #FFEB65;
 	box-sizing: border-box;
+	line-height: 150%
 }
 
 .exp:before {
@@ -121,6 +122,14 @@ p {
 	top: 10px;
 	left: -15px;
 	padding: 4px 10px;
+}
+
+.command{
+	background-color: #E6E6E6;
+	border: solid 1px #886A08;
+	padding: 2px;
+	border-radius: 5px;
+	font-family: monospace;
 }
 
 /*Footer*/
