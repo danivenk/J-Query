@@ -128,7 +128,8 @@ p {
 	background-color: #E6E6E6;
 	border: solid 1px #886A08;
 	padding: 2px;
-	border-radius: 5px
+	border-radius: 5px;
+	font-family: monospace;
 }
 
 /*Footer*/
