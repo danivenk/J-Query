@@ -36,7 +36,7 @@
 		</header>
 		<p>jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. Used by over 60% of the 10,000 most visited websites, jQuery is the most popular JavaScript library in use today. jQuery is free, open source software, licensed under the MIT License.</p>
 
-		<p class="exp" id="u1">jQuery is written in javascript. But before you even start you need to or link jQuery in with the following attributes: <span class="command">&lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt;</span> and <span class="command">&lt;script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"&gt;&lt;/script&gt;</span> For the ones who don't know how to link a .js file to your HTML file. Here is the explanation: First create a .js file and save it. Then go to your ...(line truncated)...</p>
+		<p class="exp" id="u1">jQuery is geschreven in javascript. Maar voordat je überhaupt begint met het schrijven van jQuery moet je er eerst voor zorgen dat jQuery werkt: <span class="command">&lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt;</span> and <span class="command">&lt;script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"&gt;&lt;/script&gt;</span> For the ones who don't know how to link a .js file to your HTML file. Here is the explanation: First create a .js file and save it. Then go to your ...(line truncated)...</p>
 
 		<p><b>Opdracht 1: </b>Het is belangrijk dat je je bestanden altijd goed opslaat. Open <a href="http://www.notepadplusplus.com/">notepad++</a> op je computer en maak een nieuw bestand aan. Ga onder 'File' naar 'Opslaan als...' en sla het bestand op als <i>'example.js'</i>.</p>
 
