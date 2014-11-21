@@ -1,3 +1,8 @@
+<?php
+	if (isset($_GET['e']) && !empty($_GET['e'])) {
+		
+	}
+?>
 <!DoCTyPE html>
 <html>
 <head>
@@ -45,7 +50,13 @@
 <body>
 	
 	<div class="editor">
-		<textarea class="text"></textarea>
+		<textarea class="text">
+		<?php
+			if ($e == 4) {
+				
+			}
+		?>
+		</textarea>
 		<input type="button" class="clean" value="Remove all"></input>
 	</div>
 	
