@@ -1,6 +1,14 @@
 <?php
 	if (isset($_GET['e']) && !empty($_GET['e'])) {
-		
+		$e = $_GET['e'];
+		if ($e == 4) {
+			$exercise =	"$(document).ready(function(){
+				$('.movealong').html('<span title='Dit is slechts een voorbeeld pudinkje.'>Caramelpudinkje'</span>);
+			});
+			<div class='movalong'></div>";
+		} else {
+			$exercise = false;
+		}
 	}
 ?>
 <!DoCTyPE html>
@@ -52,8 +60,8 @@
 	<div class="editor">
 		<textarea class="text">
 		<?php
-			if ($e == 4) {
-				
+			if ($exercise != false) {
+				echo $exercise;
 			}
 		?>
 		</textarea>
