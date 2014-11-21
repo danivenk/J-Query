@@ -36,7 +36,11 @@
 		</header>
 		<p>jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. Used by over 60% of the 10,000 most visited websites, jQuery is the most popular JavaScript library in use today. jQuery is free, open source software, licensed under the MIT License.</p>
 
+<<<<<<< HEAD
 		<p class="exp" id="u1">jQuery is written in javascript. But before you even start you need to or link jQuery in with the following attributes: <span class="command">&lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt;</span> and <span class="command">&lt;script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"&gt;&lt;/script&gt;</span>. Put these lines in the HEAD of an HTML document.</p>
+=======
+		<p class="exp" id="u1">jQuery is geschreven in javascript. Maar voordat je überhaupt begint met het schrijven van jQuery moet je er eerst voor zorgen dat jQuery werkt: <span class="command">&lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt;</span> and <span class="command">&lt;script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"&gt;&lt;/script&gt;</span> For the ones who don't know how to link a .js file to your HTML file. Here is the explanation: First create a .js file and save it. Then go to your ...(line truncated)...</p>
+>>>>>>> origin/master
 
 		<p><b>Opdracht 1: </b>Het is belangrijk dat je je bestanden altijd goed opslaat. Open <a href="http://notepad-plus-plus.org/download/">Notepad++</a> of de editor die je gebruikt op je computer en maak een nieuw bestand aan. Ga onder 'File' naar 'Opslaan als...' en sla het bestand op als <i>'example.js'</i>.</p>
 		
@@ -50,13 +54,13 @@
 
 		<p><b>Opdracht 4: </b> Binnenkort...<a href="edit.php?e=4">Open editor</a></p>
 
-		<p>Nunc interdum commodo cursus. Duis lacus lacus, euismod at maximus eget, facilisis et justo. Maecenas ut varius nulla. Vestibulum viverra nisi tristique sagittis vulputate. Vivamus id sapien quis mi tincidunt cursus. Suspendisse potenti. Proin non ipsum posuere, tristique quam sit amet, sollicitudin diam. Phasellus est erat, eleifend at tellus in, euismod rutrum turpis. Cras bibendum lectus sit amet tellus sodales, vitae laoreet augue placerat. Sed eget scelerisque dui. Sed finibus nibh quis tellus aliquam, at vulputate risus tempor. Etiam vehicula lorem eget iaculis molestie. Proin sagittis, purus et sagittis tempus, lacus lacus rutrum libero, id elementum nisl magna id mauris. Praesent vestibulum convallis auctor.</p>
+		<p class="exp" id="u3"></p>
 
 		<p>Donec mollis in diam vehicula ullamcorper. In malesuada neque id ipsum varius tristique. Praesent eget tellus mi. Proin semper dapibus sodales. Donec hendrerit urna ac ipsum condimentum, in elementum arcu vulputate. Pellentesque non eleifend risus. Aliquam tristique enim non dui commodo, ac viverra urna ultrices. Sed commodo neque et condimentum luctus.</p>
 
 		<p>Integer sodales vitae odio fermentum ullamcorper. Nullam molestie fringilla ligula in maximus. Sed nec nulla elit. Maecenas est felis, egestas ut nisl vitae, fermentum tincidunt purus. Sed erat ante, condimentum ac dolor non, porta pharetra erat. Donec tincidunt urna risus, consequat iaculis augue molestie pharetra. Etiam dolor magna, venenatis fermentum felis vitae, lobortis vehicula quam. Fusce pulvinar augue quis turpis scelerisque, id dignissim quam feugiat. Sed commodo in lorem ut lacinia. Aenean at est ac justo aliquam porta. Sed commodo dapibus ligula ut bibendum. Aliquam nec lorem a mauris ultrices aliquet lacinia in dui. Nulla consectetur nulla id leo cursus iaculis. Fusce hendrerit turpis eget gravida cursus.</p>
 
-		<p class="exp" id="u3">Pellentesque vitae enim molestie, ultricies nibh et, fringilla ex. Sed eget laoreet neque, non cursus magna. Proin aliquam maximus dui ornare fringilla. In vitae ornare dolor. Mauris sed rutrum ante, vel malesuada ante. Etiam imperdiet ullamcorper orci at porttitor. Donec accumsan nisl est, vitae laoreet nisl luctus mattis. Nullam eu finibus orci, eu consectetur mauris. Integer commodo ligula eu magna finibus imperdiet.</p>
+		<p>Pellentesque vitae enim molestie, ultricies nibh et, fringilla ex. Sed eget laoreet neque, non cursus magna. Proin aliquam maximus dui ornare fringilla. In vitae ornare dolor. Mauris sed rutrum ante, vel malesuada ante. Etiam imperdiet ullamcorper orci at porttitor. Donec accumsan nisl est, vitae laoreet nisl luctus mattis. Nullam eu finibus orci, eu consectetur mauris. Integer commodo ligula eu magna finibus imperdiet.</p>
 
 		<p>Nulla ut urna quis quam dapibus gravida. Maecenas maximus vitae eros ac ullamcorper. Etiam posuere vestibulum orci, ut blandit mauris. Nulla lacinia, nibh vulputate suscipit faucibus, odio ipsum tempus nunc, at sagittis augue est id orci. Morbi rutrum quam sit amet euismod tristique. Nunc id tincidunt ante. Curabitur vestibulum eros et arcu sagittis, vel cursus mi sodales.</p>
 
