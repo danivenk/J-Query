@@ -36,17 +36,13 @@
 		</header>
 		<p>jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. Used by over 60% of the 10,000 most visited websites, jQuery is the most popular JavaScript library in use today. jQuery is free, open source software, licensed under the MIT License.</p>
 
-<<<<<<< HEAD
-		<p class="exp" id="u1">jQuery is written in javascript. But before you even start you need to or link jQuery in with the following attributes: <span class="command">&lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt;</span> and <span class="command">&lt;script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"&gt;&lt;/script&gt;</span>. Put these lines in the HEAD of an HTML document.</p>
-=======
-		<p class="exp" id="u1">jQuery is geschreven in javascript. Maar voordat je überhaupt begint met het schrijven van jQuery moet je er eerst voor zorgen dat jQuery werkt: <span class="command">&lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt;</span> and <span class="command">&lt;script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"&gt;&lt;/script&gt;</span> For the ones who don't know how to link a .js file to your HTML file. Here is the explanation: First create a .js file and save it. Then go to your ...(line truncated)...</p>
->>>>>>> origin/master
+		<p class="exp" id="u1">jQuery is geschreven in javascript. Maar voordat je überhaupt begint met het schrijven van jQuery moet je er eerst voor zorgen dat jQuery werkt: <span class="command">&lt;script src="//code.jquery.com/jquery-1.11.0.min.js"&gt;&lt;/script&gt;</span> and <span class="command">&lt;script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"&gt;&lt;/script&gt;</span>. Typ deze lijnen in de HEAD van je HTML document.</p>
 
 		<p><b>Opdracht 1: </b>Het is belangrijk dat je je bestanden altijd goed opslaat. Open <a href="http://notepad-plus-plus.org/download/">Notepad++</a> of de editor die je gebruikt op je computer en maak een nieuw bestand aan. Ga onder 'File' naar 'Opslaan als...' en sla het bestand op als <i>'example.js'</i>.</p>
 		
 		<p><b>Opdracht 2: </b>Link in een bestaande of nieuwe HTML document jQuery en 'example.js'.</p>
 
-		<p class="exp" id="u2">When you start with the .js file you need a command to indicate that you're going to write some jQuery code. You do this with the <span class="command">$(document)</span> command, after that you put the command <span class="command">.ready()</span> behind it. <span class="command">.ready()</span> checks if the selected element, in this case the document, is ready. Between the bracets of <span class="command">.ready()</span> you need to put <span class="command">function(){}</span>. Between the curly bracets you'll write the peace of code that is <u>triggered when the document is ready</u>. Note: don't forget to add after every function or expression the <span class="command">;</span> sign.</p>
+		<p class="exp" id="u2">When you start with the .js file you need a command to indicate that you're going to write some jQuery code. You do this with the <span class="command">$(document)</span> command, after that you put the command <span class="command">.ready()</span> behind it. <span class="command">.ready()</span> checks if the selected element, in this case the document, is ready. Between the bracets of <span class="command">.ready()</span> you need to put <span class="command">function(){}</span>. Between the curly bracets you'll write the peace of code that is triggered when the document is ready</u>. Note: don't forget to add after every function or expression the <span class="command">;</span> sign.</p>
 
 		<p><b>Opdracht 3: </b>Probeer uit je hoofd een nieuwe .js file aan te maken en voeg de code toe dat controleert of de document klaar is.</p>
 
