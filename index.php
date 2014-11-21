@@ -41,7 +41,6 @@
 		<p><b>Opdracht 1: </b>Het is belangrijk dat je je bestanden altijd goed opslaat. Open <a href="http://www.notepadplusplus.com/">notepad++</a> op je computer en maak een nieuw bestand aan. Ga onder 'File' naar 'Opslaan als...' en sla het bestand op als <i>'example.js'</i>.</p>
 
 		<p class="exp" id="u2">When you start with the .js file you need a command to indicate that it's jQuery. You do this with the <span class="command">$(document)</span> command, after that you put the command <span class="command">.ready()</span> behind it. <span class="command">.ready()</span> tells the jQuery that something is going to happen. between the bracets of <span class="command">.ready()</span> you need to put the function <span class="command">function(){}.</span> In the <span class="command">function(){}</span> you want to put everything the jQuery needs to do. Note: don't forget to add after every function <span class="command">;</span>.</p>
-		origin/master
 
 		<p><b>Opdracht 2: </b></p>
 
