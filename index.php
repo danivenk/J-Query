@@ -44,6 +44,17 @@
 
 		<p><b>Opdracht 2: </b>Probeer uit je hoofd een nieuwe .js file aan te maken en voeg de code toe dat controleert of de document klaar is.</p>
 
+		<p class="exp" id="u2">When you start with the .js file you need a command to indicate that it's jQuery. You do this with the <span class="command">$(document)</span> command, after that you put the command <span class="command">.ready()</span> behind it. <span class="command">.ready()</span> tells the jQuery that something is going to happen. between the bracets of <span class="command">.ready()</span> you need to put the function <span class="command">function(){}.</span> In the <span class="command">function(){}</span> you want to put everything the jQuery needs to do. Note: don't forget to add after every function <span class="command">;</span>.</p>
+
+		<p><b>Opdracht 2: </b></p>
+
+		<p>Nunc interdum commodo cursus. Duis lacus lacus, euismod at maximus eget, facilisis et justo. Maecenas ut varius nulla. Vestibulum viverra nisi tristique sagittis vulputate. Vivamus id sapien quis mi tincidunt cursus. Suspendisse potenti. Proin non ipsum posuere, tristique quam sit amet, sollicitudin diam. Phasellus est erat, eleifend at tellus in, euismod rutrum turpis. Cras bibendum lectus sit amet tellus sodales, vitae laoreet augue placerat. Sed eget scelerisque dui. Sed finibus nibh quis tellus aliquam, at vulputate risus tempor. Etiam vehicula lorem eget iaculis molestie. Proin sagittis, purus et sagittis tempus, lacus lacus rutrum libero, id elementum nisl magna id mauris. Praesent vestibulum convallis auctor.</p>
+
+		<p>Donec mollis in diam vehicula ullamcorper. In malesuada neque id ipsum varius tristique. Praesent eget tellus mi. Proin semper dapibus sodales. Donec hendrerit urna ac ipsum condimentum, in elementum arcu vulputate. Pellentesque non eleifend risus. Aliquam tristique enim non dui commodo, ac viverra urna ultrices. Sed commodo neque et condimentum luctus.</p>
+
+		<p>Integer sodales vitae odio fermentum ullamcorper. Nullam molestie fringilla ligula in maximus. Sed nec nulla elit. Maecenas est felis, egestas ut nisl vitae, fermentum tincidunt purus. Sed erat ante, condimentum ac dolor non, porta pharetra erat. Donec tincidunt urna risus, consequat iaculis augue molestie pharetra. Etiam dolor magna, venenatis fermentum felis vitae, lobortis vehicula quam. Fusce pulvinar augue quis turpis scelerisque, id dignissim quam feugiat. Sed commodo in lorem ut lacinia. Aenean at est ac justo aliquam porta. Sed commodo dapibus ligula ut bibendum. Aliquam nec lorem a mauris ultrices aliquet lacinia in dui. Nulla consectetur nulla id leo cursus iaculis. Fusce hendrerit turpis eget gravida cursus.</p>
+>>>>>>> origin/master
+
 		<p class="exp" id="u3">Pellentesque vitae enim molestie, ultricies nibh et, fringilla ex. Sed eget laoreet neque, non cursus magna. Proin aliquam maximus dui ornare fringilla. In vitae ornare dolor. Mauris sed rutrum ante, vel malesuada ante. Etiam imperdiet ullamcorper orci at porttitor. Donec accumsan nisl est, vitae laoreet nisl luctus mattis. Nullam eu finibus orci, eu consectetur mauris. Integer commodo ligula eu magna finibus imperdiet.</p>
 
 		<p>Nulla ut urna quis quam dapibus gravida. Maecenas maximus vitae eros ac ullamcorper. Etiam posuere vestibulum orci, ut blandit mauris. Nulla lacinia, nibh vulputate suscipit faucibus, odio ipsum tempus nunc, at sagittis augue est id orci. Morbi rutrum quam sit amet euismod tristique. Nunc id tincidunt ante. Curabitur vestibulum eros et arcu sagittis, vel cursus mi sodales.</p>
