@@ -66,10 +66,10 @@
 		?>
 		</textarea>
 		<input type="button" class="clean" value="Remove all"></input>
-	</div>
 	
 	
 	<div class="voorbeeld"></div>
+	</div>
 
 </body>
 </html>
