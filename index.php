@@ -7,6 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="css.css">
 	<link rel="shorcut icon" type="image/png" href="img/jQuery.png">
 	
+	<meta charset="utf-8"/>
 	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 	
