@@ -2,9 +2,11 @@
 	if (isset($_GET['e']) && !empty($_GET['e'])) {
 		$e = $_GET['e'];
 		if ($e == 4) {
-			$exercise =	"$(document).ready(function(){
+			$exercise =	"<script>
+			$(document).ready(function(){
 				$('.movealong').html('<span title='Dit is slechts een voorbeeld pudinkje.'>Caramelpudinkje'</span>);
 			});
+			</script>
 			<div class='movalong'></div>";
 		} else {
 			$exercise = false;
