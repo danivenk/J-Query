@@ -43,15 +43,15 @@
 		
 		<p><b>Opdracht 2: </b>Link in een bestaande of nieuwe HTML document jQuery en 'example.js'.</p>
 
-		<p class="exp" id="u2">When you start with the .js file you need a command to indicate that you're going to write some jQuery code. You do this with the <span class="command">$(document)</span> command, after that you put the command <span class="command">.ready()</span> behind it. <span class="command">.ready()</span> checks if the selected element, in this case the document, is ready. Between the bracets of <span class="command">.ready()</span> you need to put <span class="command">function(){}</span>. Between the curly bracets you'll write the peace of code that is triggered when the document is ready</u>. Note: don't forget to add after every function or expression the <span class="command">;</span> sign.</p>
+		<p class="exp" id="u2">Wanneer je met je Javascript file begint, moet je aangeven dat je met een jQuery te maken hebt. Dit kan je doen doormiddel van het <span class="command">$(document)</span> command, daarachter doe je het <span class="command">.ready()</span> command. <span class="command">.ready()</span> dit checkt of het element, in dit geval het document, klaar is. Tussen de haakjes van <span class="command">.ready()</span> moet je <span class="command">function(){}</span> typen. Tussen de accolades moet je het stukje code typen wat er moet gebeuren als het document klaar is. NIET VERGETEN: typ na elk command een<span class="command">;</span>.</p>
 
 		<p><b>Opdracht 3: </b>Probeer uit je hoofd een nieuwe .js file aan te maken en voeg de code toe dat controleert of de document klaar is.</p>
 
-		<p class="exp" id="u2">More exlanation soon...</p>
+		<p class="exp" id="u3"></p>
 
 		<p><b>Opdracht 4: </b> Binnenkort...<a href="edit.php?e=4">Open editor</a></p>
 
-		<p class="exp" id="u3"></p>
+		<p class="exp" id="u4"></p>
 
 		<p>Donec mollis in diam vehicula ullamcorper. In malesuada neque id ipsum varius tristique. Praesent eget tellus mi. Proin semper dapibus sodales. Donec hendrerit urna ac ipsum condimentum, in elementum arcu vulputate. Pellentesque non eleifend risus. Aliquam tristique enim non dui commodo, ac viverra urna ultrices. Sed commodo neque et condimentum luctus.</p>
 
@@ -67,7 +67,7 @@
 
 		<p>Etiam in nibh hendrerit, porta mi ut, tristique dui. Aenean vitae erat quis purus sodales venenatis. Duis eleifend elementum libero, id aliquam nisi hendrerit venenatis. Donec aliquet ultricies est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim consectetur velit et elementum. Nullam pellentesque ultrices purus id sodales.</p>
 
-		<p class="exp" id="u4">Donec at faucibus lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse nec leo felis. Nullam ut luctus libero. Sed in neque id odio accumsan ornare. In hac habitasse platea dictumst. Nulla facilisi. Maecenas porta tincidunt quam, in viverra sapien ultricies consectetur. Vestibulum ac ex aliquet, porta orci eu, bibendum lacus. Nam eu purus et turpis blandit ullamcorper. Nulla facilisi.</p>
+		<p class="exp" id="u9">Donec at faucibus lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse nec leo felis. Nullam ut luctus libero. Sed in neque id odio accumsan ornare. In hac habitasse platea dictumst. Nulla facilisi. Maecenas porta tincidunt quam, in viverra sapien ultricies consectetur. Vestibulum ac ex aliquet, porta orci eu, bibendum lacus. Nam eu purus et turpis blandit ullamcorper. Nulla facilisi.</p>
 
 		<p>Pellentesque ut consectetur turpis, in elementum lacus. Suspendisse a accumsan nisl. Nunc ultrices libero at urna fermentum, vel tempus nisi iaculis. Ut ultricies quam sit amet pellentesque faucibus. Donec lacinia euismod ex, quis hendrerit nunc porttitor facilisis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed mollis convallis felis eget laoreet. Donec egestas nisl eget metus rhoncus suscipit. Curabitur ut ante ullamcorper, gravida tortor at, tincidunt ipsum. Fusce accumsan sapien a orci malesuada feugiat. Nulla facilisi. Aenean vitae neque malesuada, sollicitudin odio quis, iaculis massa. Aliquam ac lacus sed mauris fermentum rutrum. Vivamus elit mauris, auctor ac erat vel, efficitur lobortis quam. Aenean placerat vulputate dolor et vulputate.</p>
 
